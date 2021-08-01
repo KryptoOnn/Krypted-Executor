@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://snowhub.dev/script.lua", true))()
-
 -----Games That Snow Hub Supports-----
 
 -- 1 Phantom Forces
