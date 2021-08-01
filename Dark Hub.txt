@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
-
 -----Games That Dark Hub Supports-----
 
 -- 1 Jailbreak 
