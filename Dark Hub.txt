@@ -1,9 +1,7 @@
 -----Games That Dark Hub Supports-----
 
 -- 1 Jailbreak 
-    
--- 2 BubbleGumSimulator  
-    
+        
 -- 3 Arsenal  
     
 -- 4 ThickLegends  
