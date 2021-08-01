@@ -1,0 +1,25 @@
+loadstring(game:HttpGet("https://snowhub.dev/script.lua", true))()
+
+-----Games That Snow Hub Supports-----
+
+-- 1 Phantom Forces
+
+-- 2 Arsenal
+
+-- 3 Islands
+
+-- 4 SCP: Roleplay
+
+-- 5 Natural Disaster Survival
+
+-- 6 Horrific Housing
+
+-- 7 Destruction Simulator
+
+-- 8 Build A Boat For Treasure
+
+-- 9 Ragdoll Engine
+
+-- 10 Tower Of Hell
+
+-- 11 Breaking Point = Polybattle
