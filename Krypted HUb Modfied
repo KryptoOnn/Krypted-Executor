@@ -110,7 +110,7 @@ function OxyLibrary:Create()
         Oxy.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         Oxy.BackgroundTransparency = 1.000
         Oxy.BorderColor3 = Color3.fromRGB(27, 42, 53)
-        Oxy.Position = UDim2.new(0.0400864554, 0, 0.0205479451, 0)
+        Oxy.Position = UDim2.new(0.0100864554, 0, 0.0205479451, 0)
         Oxy.Size = UDim2.new(0, 40, 0, 28)
         Oxy.Font = Enum.Font.GothamBold
         Oxy.Text = "Kry"
@@ -124,7 +124,7 @@ function OxyLibrary:Create()
         Hub.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         Hub.BackgroundTransparency = 1.000
         Hub.BorderColor3 = Color3.fromRGB(27, 42, 53)
-        Hub.Position = UDim2.new(0.0305041886, 0, 0.0205479451, 0)
+        Hub.Position = UDim2.new(0.0605041886, 0, 0.0205479451, 0)
         Hub.Size = UDim2.new(0, 50, 0, 28)
         Hub.Font = Enum.Font.GothamBold
         Hub.Text = "Hub"
@@ -560,7 +560,7 @@ function OxyLibrary:Create()
             bindBtn.Parent = keyBindFrame
             bindBtn.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
             bindBtn.Position = UDim2.new(0.934296787, 0, 0.142857149, 0)
-            bindBtn.Size = UDim2.new(0, 34, 0, 34)
+            bindBtn.Size = UDim2.new(0, 40, 0, 34)
             bindBtn.Font = Enum.Font.GothamSemibold
             bindBtn.TextColor3 = Color3.fromRGB(149, 149, 149)
             bindBtn.TextSize = 14.000
