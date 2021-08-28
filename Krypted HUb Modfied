@@ -110,7 +110,7 @@ function OxyLibrary:Create()
         Oxy.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         Oxy.BackgroundTransparency = 1.000
         Oxy.BorderColor3 = Color3.fromRGB(27, 42, 53)
-        Oxy.Position = UDim2.new(0.0100864554, 0, 0.0205479451, 0)
+        Oxy.Position = UDim2.new(0.0400864554, 0, 0.0205479451, 0)
         Oxy.Size = UDim2.new(0, 40, 0, 28)
         Oxy.Font = Enum.Font.GothamBold
         Oxy.Text = "Kry"
